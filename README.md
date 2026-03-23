@@ -89,7 +89,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
-
+```
 #include <stdio.h>
 
 #define PI 3.14159
@@ -105,7 +105,7 @@ int main() {
     return 0;
     
 }
-
+```
 # Output:
 
 <img width="812" height="255" alt="Screenshot 2025-11-19 132611" src="https://github.com/user-attachments/assets/3b78f648-a199-4347-954b-dbf57244faa5" />
@@ -134,7 +134,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
-
+```
 #include <stdio.h>
 
 int main() {
@@ -158,7 +158,7 @@ int main() {
     return 0;
     
 }
-
+```
 # Output:
 
 <img width="815" height="271" alt="Screenshot 2025-11-19 132755" src="https://github.com/user-attachments/assets/9e12c434-1064-4b88-9ab5-095f9082e578" />
@@ -202,7 +202,7 @@ int main() {
 ### Step 8:   
   Stop
 # Program:
-
+```
 #include <stdio.h>
 
 int main() {
@@ -253,7 +253,7 @@ int main() {
     return 0;
     
 }
-
+```
 # Output:
 
 <img width="805" height="677" alt="Screenshot 2025-11-19 133931" src="https://github.com/user-attachments/assets/98f0ee21-4a37-4f5e-90ec-0f0a2b51548a" />
@@ -303,7 +303,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
-
+```
 #include <stdio.h>
 
 int main() {
@@ -339,7 +339,7 @@ int main() {
     return 0;
 }
 
-
+```
 # Output:
 
 <img width="814" height="263" alt="Screenshot 2025-11-19 134028" src="https://github.com/user-attachments/assets/901a3a62-6f93-47e9-8346-27af1ef5337a" />
